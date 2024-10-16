@@ -5,7 +5,7 @@ Passionate about software engineering, with full-stack web development expertise
 
 ### Projects
 Here are a few projects I've been working on:
-- [whiteboard](link-to-project): 
+- [whiteboard](https://instant-chat-ay6x.onrender.com/): 
   * Collaboration Features: Implemented drawing and brainstorming
   tools, enhancing team collaboration across different locations.
   * Cross-Device Compatibility: Developed a responsive design
@@ -18,7 +18,7 @@ Here are a few projects I've been working on:
   * microarchitecture:Leveraged a microservices architecture to
   modularize the application, improving scalability, maintainability, and
   fault tolerance.
-- [instant chat](link-to-project): 
+- [instant chat](https://white-board-d5cn.onrender.com/): 
     * Instant Messaging: Implemented real-time communication using
     WebSocket, ensuring seamless user interactions.
     * Advanced Connections: Established peer-to-peer and mesh
