@@ -49,9 +49,5 @@ Here are a few projects I've been working on:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=some-coder-whowantstocode&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=some-coder-whowantstocode&layout=compact&theme=radical)
 
-### Get in Touch
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-bal-9569b2321/)
-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://x.com/adevthatcreates)
-- [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](rohit19003@gmail.com)
 
 Looking forward to connecting with like-minded individuals and contributing to exciting projects!
