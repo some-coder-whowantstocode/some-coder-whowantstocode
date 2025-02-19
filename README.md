@@ -42,7 +42,7 @@ Here are a few projects I've been working on:
     <img src="https://img.shields.io/badge/WebSocket-000000?logo=websocket&logoColor=white&style=for-the-badge" alt="WebSocket" />
     <img src="https://img.shields.io/badge/WebRTC-333333?logo=webrtc&logoColor=white&style=for-the-badge" alt="WebRTC" />
     <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" alt="PHP" />
-    <img src="https://img.shields.io/badge/logo-golang-blue?logo=go&logoColor=white&style=for-the-badge" alt="GO" />
+    <img src="https://img.shields.io/badge/golang-grey?style=for-the-badge&logo=go" alt="GO" />
  
 </p>
 
