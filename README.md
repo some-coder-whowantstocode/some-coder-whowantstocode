@@ -3,32 +3,6 @@
 ### About Me
 Passionate about software engineering, with full-stack web development expertise. Strong knowledge of three programming languages, including JavaScript, Python, and Java; competencies in React, Node.js, and MERN stack development experience. Responsive design, web technologies, HTML, CSS, and front-end frameworks - is a master in the use of RESTful APIs and GraphQL as well as Next.js. Creativity in designing innovative solutions, optimization of web performance, open-source contributions are my goals.
 
-### Projects
-Here are a few projects I've been working on:
-- [whiteboard](https://instant-chat-ay6x.onrender.com/): 
-  * Collaboration Features: Implemented drawing and brainstorming
-  tools, enhancing team collaboration across different locations.
-  * Cross-Device Compatibility: Developed a responsive design
-  ensuring seamless functionality on mobile, tablet, and desktop
-  without installations.
-  * User-friendly Interface: Designed an intuitive interface for instant
-  drawing and collaboration, improving user experience.
-  * Secure Sharing and Auto-Save: Integrated secure sharing options
-  with access control and an auto-save feature to prevent data loss.
-  * microarchitecture:Leveraged a microservices architecture to
-  modularize the application, improving scalability, maintainability, and
-  fault tolerance.
-- [instant chat](https://white-board-d5cn.onrender.com/): 
-    * Instant Messaging: Implemented real-time communication using
-    WebSocket, ensuring seamless user interactions.
-    * Advanced Connections: Established peer-to-peer and mesh
-    connections via WebRTC, enhancing connectivity and performance.
-    * User-Friendly Interface: Designed an intuitive and responsive UI,
-    improving user experience.
-    * Robust Backend: Built a scalable backend with Node.js and
-    Express.js, ensuring reliable performance.
-
-
 ### Skills
 <p align="left">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript" />
